@@ -55,4 +55,5 @@ logging:
   path: ${user.home}/tomcatFiles/logs
   file: tomcat.log
 
+
 debug: true
