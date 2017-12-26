@@ -1,9 +1,8 @@
-package com.bd.springboot.admin.common;
+package com.bd.springboot.admin.common.utils;
 
 import org.apache.commons.lang.RandomStringUtils;
 
 import java.io.UnsupportedEncodingException;
-import java.net.URLEncoder;
 
 /**
  * 所在的包名: com.bd.springboot.admin.common
